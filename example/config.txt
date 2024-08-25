@@ -1,0 +1,2 @@
+Prefix plugins/TagCleaner/example/
+Plugin TagCleaner inputfile parameters.txt outputfile myoutput
